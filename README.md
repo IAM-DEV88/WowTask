@@ -24,9 +24,9 @@ Edición del Gear Score: Los jugadores pueden editar el Gear Score de sus person
 El servidor debe admitir PHP para la actualización de datos en el archivo JSON (json.php).
 
 # Uso
--Cargue sus datos de personajes en un archivo JSON llamado personaje.json.
--Coloque este código en su sitio web o servidor que admita PHP.
--Los jugadores pueden acceder al gestor de tareas a través de la página web y comenzar a marcar tareas, editar el Gear Score en tiempo real.
+- Cargue sus datos de personajes en un archivo JSON llamado personaje.json.
+- Coloque este código en su sitio web o servidor que admita PHP.
+- Los jugadores pueden acceder al gestor de tareas a través de la página web y comenzar a marcar tareas, editar el Gear Score en tiempo real.
 
 # Contribuciones y mejoras
 Este código es un proyecto en desarrollo, y se pueden realizar varias mejoras, como agregar autenticación de usuario, permitir la personalización de la tabla y agregar notificaciones en tiempo real. Las contribuciones son bienvenidas.
